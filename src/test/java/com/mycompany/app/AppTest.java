@@ -43,6 +43,6 @@ public class AppTest
     }
     public void sda()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
 }
