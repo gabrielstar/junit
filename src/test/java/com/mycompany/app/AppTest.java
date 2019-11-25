@@ -28,20 +28,11 @@ public class AppTest
         return new TestSuite( AppTest.class );
     }
 
-    /**
-     * Rigourous Test :-)
-     */
-    public void testApp()
+    public void success()
     {
         assertTrue( true );
     }
-
-
-    public void testApp2()
-    {
-        assertTrue( true );
-    }
-    public void sda()
+    public void failure()
     {
         assertTrue( false );
     }
